@@ -1,0 +1,6 @@
+bin/*
+obj/*
+
+# exceptions
+!bin/.gitkeep
+!obj/.gitkeep
