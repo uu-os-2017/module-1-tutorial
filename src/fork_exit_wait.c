@@ -1,7 +1,6 @@
 #include <stdio.h>    // printf()
 #include <stdlib.h>   // exit(), EXIT_SUCCESS, EXIT_FAILURE
 #include <unistd.h>   // fork(), getpid(), getppid(), sleep()
-// #include <sys/wait.h> // WIFEXITED, WEXITSTATUS
 
 #define SLEEP 5
 
